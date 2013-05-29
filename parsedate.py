@@ -1,7 +1,6 @@
-
 #This script is to parse the date/time stamp from Symantec Endpoint Protection logs. It takes a single input of six hexadecimal octets.
 #The hex value is stored in the very first comma delimited field of each line in the log files.
-#Usage: pasredate.py <hex datestamp>
+#Usage: parsedate.py <hex datestamp>
 #
 #
 #Created by: Vito Rocco
