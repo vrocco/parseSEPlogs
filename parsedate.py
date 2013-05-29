@@ -5,7 +5,7 @@
 #
 #Created by: Vito Rocco
 
-import sys, getopt
+import sys
 
 def year (hex):
     yr = int(hex[0:2], 16)
